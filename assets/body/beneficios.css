@@ -1,0 +1,20 @@
+.beneficios {
+    background: #ffffff;
+    padding: 20px;
+}
+
+.beneficios__titulo {
+    text-align: center;
+    
+}
+
+.beneficios__lista {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.beneficios__imagem {
+    width: 50%;
+}
